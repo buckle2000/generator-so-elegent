@@ -1,0 +1,23 @@
+{
+  "name": "generator-so-elegant",
+  "version": "0.1.0",
+  "description": "NodeJS, Express, Jade, Stylus + Nib, Nodemon | Semantic, Moon > Browserify, BrowserSync",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "express",
+    "jade",
+    "stylus",
+    "nib",
+    "nodemon",
+    "semantic",
+    "moonjs",
+    "browserify",
+    "browsersync"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^1.0.0"
+  }
+}
